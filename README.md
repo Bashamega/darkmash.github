@@ -1,7 +1,7 @@
 <h2 align="center">DarkMash</h3>
 <h3 align="center">Work the way around.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkmash-org&label=Profile%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=darkmash-org&label=Profile%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
 - 📫 How to reach US **cactochan#1010 Axorax#5033**
 
