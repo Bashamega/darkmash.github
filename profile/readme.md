@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darkmash-org&label=Profile%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
-- 📫 How to reach US **cactochan#1010 Axorax#5033**
+- 📫 How to reach us? **Discord: cactochan#1010**
 
-- ⚡ Fun fact **He He notin funny here**
+- ⚡ Fun fact: **DarkMash starts with a big D**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
