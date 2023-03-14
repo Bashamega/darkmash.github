@@ -13,6 +13,8 @@
 ```    
 Patreon - https://www.patreon.com/axorax
 
+Patreon - https://www.patreon.com/Cactochan
+
 Duino Coin - darkmash
 
 Duino Coin - axorax
