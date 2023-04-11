@@ -20,7 +20,7 @@
 - UFT \[tool] - `https://github.com/darkmash-org/UFT`
 - UFT \[package] - `https://pypi.org/project/uft/`
 - EmotionAPI \[API] - `https://emotionapi.darkmash.repl.co/`
-- Duino Lookup \[webpage] - `https://darkmash-org.github.io/duino-lookup/`
+- Duino Lookup \[webpage] - `https://axorax.github.io/duino-lookup/old/`
 - Duino Lookup 2 \[webpage] - `https://axorax.github.io/duino-lookup/`
 - Statman \[webpage] - `https://darkmash-org.github.io/Statman/`
 - StatmanAPI \[API] - `https://statman.darkmash.repl.co/`
