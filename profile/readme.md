@@ -41,7 +41,7 @@ Patreon           - https://www.patreon.com/axorax
 
 Duino Coin (DUCO) - darkmash
                   - axorax
-                  - cacto
+                  - cacti
 
 BCH (Bitcoincash) - qz2tsum0g74n3f6krfp8pnhcs5vkumqd6ud4d63eng
 
