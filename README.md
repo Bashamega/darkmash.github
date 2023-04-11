@@ -13,6 +13,28 @@
  
 - ⚡ Fun fact: **DarkMash starts with a big D**
 
+## Project-Urls
+
+- Home \[webpage] - `https://darkmash-org.github.io/`
+- Blog \[webpage] - `https://darkmash-org.github.io/blog/`
+- Clot \[tool] - `https://github.com/darkmash-org/Clot/`
+- Clot \[package] - `https://pypi.org/project/clot-terminal/`
+- UFT \[tool] - `https://github.com/darkmash-org/UFT`
+- UFT \[package] - `https://pypi.org/project/uft/`
+- EmotionAPI \[API] - `https://emotionapi.darkmash.repl.co/`
+- Duino Lookup \[webpage] - `https://darkmash-org.github.io/duino-lookup/`
+- Duino Lookup 2 \[webpage] - `https://axorax.github.io/duino-lookup/`
+- Statman \[webpage] - `https://darkmash-org.github.io/Statman/`
+- StatmanAPI \[API] - `https://statman.darkmash.repl.co/`
+- StatmanCLI \[tool] - `https://github.com/darkmash-org/StatmanCLI`
+- Edumash \[webpage] - `https://darkmash-org.github.io/edumash/`
+- DarkmashAPI \[API] - `https://darkmask.darkmash.repl.co/`
+- Darkmash \[webpage] - `https://darkmash-org.github.io/Darkmask/`
+- DarkmailAPI \[API] - `https://emailtracker.darkmash.repl.co/`
+- Tarl \[tool] - `https://github.com/darkmash-org/Tarl`
+- DarkBot \[bot] - `https://github.com/darkmash-org/Dark.bot`
+
+
 ## You can donate to our activities through ~
 ```    
 Patreon           - https://www.patreon.com/axorax
