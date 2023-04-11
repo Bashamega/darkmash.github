@@ -15,6 +15,7 @@
 
 - Home \[webpage] - `https://darkmash-org.github.io/`
 - Blog \[webpage] - `https://darkmash-org.github.io/blog/`
+- Windrag.js \[lib] - `https://github.com/darkmash-org/axorax-windrag.js`
 - Clot \[tool] - `https://github.com/darkmash-org/Clot/`
 - Clot \[package] - `https://pypi.org/project/clot-terminal/`
 - UFT \[tool] - `https://github.com/darkmash-org/UFT`
