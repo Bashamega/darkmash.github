@@ -6,10 +6,8 @@
 - 📫 How to reach us?
 
 **Discord: [https://discord.gg/eQr2yfQTQd](https://discord.gg/eQr2yfQTQd)** 
-
-*Send us an email! `darkmash@fbi.ac`*
  
-*Website ? [https://darkmash-org.github.io/](https://darkmash-org.github.io/)*
+**Website: [https://darkmash-org.github.io/](https://darkmash-org.github.io/)**
  
 - ⚡ Fun fact: **DarkMash starts with a big D**
 
@@ -36,10 +34,13 @@
 
 
 ## You can donate to our activities through ~
+
 ```    
 Patreon           - https://www.patreon.com/axorax
 
-Duino Coin        - darkmash
+Duino Coin (DUCO) - darkmash
+                  - axorax
+                  - cacto
 
 BCH (Bitcoincash) - qz2tsum0g74n3f6krfp8pnhcs5vkumqd6ud4d63eng
 
