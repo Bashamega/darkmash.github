@@ -13,11 +13,6 @@
  
 - ⚡ Fun fact: **DarkMash starts with a big D**
 
-<h3 align="left">Connect with us:</h3>
-<p align="left">
-<a href="https://discord.gg/YuWUzNuU3R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YuWUzNuU3R" height="30" width="40" /></a>
-</p>
-
 ## You can donate to our activities through ~
 ```    
 Patreon           - https://www.patreon.com/axorax
