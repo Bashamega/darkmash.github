@@ -3,7 +3,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darkmash-org&label=Profile%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
  
-- 📫 How to reach us? **Discord: [https://discord.gg/eQr2yfQTQd](https://discord.gg/eQr2yfQTQd)** 
+- 📫 How to reach us?
+
+**Discord: [https://discord.gg/eQr2yfQTQd](https://discord.gg/eQr2yfQTQd)** 
+
+* Send us an email! `darkmash@fbi.ac`
+ 
+* Website ? [https://darkmash-org.github.io/](https://darkmash-org.github.io/)*
  
 - ⚡ Fun fact: **DarkMash starts with a big D**
 
