@@ -7,9 +7,9 @@
 
 **Discord: [https://discord.gg/eQr2yfQTQd](https://discord.gg/eQr2yfQTQd)** 
 
-* Send us an email! `darkmash@fbi.ac`
+*Send us an email! `darkmash@fbi.ac`*
  
-* Website ? [https://darkmash-org.github.io/](https://darkmash-org.github.io/)*
+*Website ? [https://darkmash-org.github.io/](https://darkmash-org.github.io/)*
  
 - ⚡ Fun fact: **DarkMash starts with a big D**
 
