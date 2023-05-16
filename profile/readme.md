@@ -15,6 +15,7 @@
 
 - Home \[webpage] - `https://darkmash-org.github.io/`
 - Blog \[webpage] - `https://darkmash-org.github.io/blog/`
+- PublicGPTService \[API] - `https://github.com/darkmash-org/PublicGPTService`
 - OpenCrawler \[tool] - `https://github.com/darkmash-org/OpenCrawler`
 - Windrag.js \[lib] - `https://github.com/darkmash-org/axorax-windrag.js`
 - Clot \[tool] - `https://github.com/darkmash-org/Clot/`
