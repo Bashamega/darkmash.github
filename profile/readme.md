@@ -18,6 +18,13 @@
 - PublicGPTService \[API] - `https://github.com/darkmash-org/PublicGPTService`
 - OpenCrawler \[tool] - `https://github.com/darkmash-org/OpenCrawler`
 - Windrag.js \[lib] - `https://github.com/darkmash-org/axorax-windrag.js`
+- get-os-ip.js \[lib] - `https://github.com/darkmash-org/os-ip.js`
+- repeat-str.js \[lib] - `https://github.com/darkmash-org/repeat-str.js`
+- bfcomp.js \[lib] - `https://github.com/darkmash-org/bfcomp.js`
+- is-internet-present.js \[lib] - `https://github.com/darkmash-org/is-internet-present.js-fork`
+- clean-ms.js \[lib] - `https://github.com/darkmash-org/clean-ms.js-fork`
+- norm-url.js \[lib] - `https://github.com/darkmash-org/norm-url.js`
+- compactid.js \[lib] - `https://github.com/darkmash-org/compactid.js-fork`
 - Clot \[tool] - `https://github.com/darkmash-org/Clot/`
 - Clot \[package] - `https://pypi.org/project/clot-terminal/`
 - UFT \[tool] - `https://github.com/darkmash-org/UFT`
