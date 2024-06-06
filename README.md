@@ -15,24 +15,27 @@
 
 ## Project-Urls
 
-- Home \[webpage] - `https://darkmash-org.github.io/`
-- Blog \[webpage] - `https://darkmash-org.github.io/blog/`
-- Clot \[tool] - `https://github.com/darkmash-org/Clot/`
-- Clot \[package] - `https://pypi.org/project/clot-terminal/`
-- UFT \[tool] - `https://github.com/darkmash-org/UFT`
-- UFT \[package] - `https://pypi.org/project/uft/`
-- EmotionAPI \[API] - `https://emotionapi.darkmash.repl.co/`
-- Duino Lookup \[webpage] - `https://darkmash-org.github.io/duino-lookup/`
-- Duino Lookup 2 \[webpage] - `https://axorax.github.io/duino-lookup/`
-- Statman \[webpage] - `https://darkmash-org.github.io/Statman/`
-- StatmanAPI \[API] - `https://statman.darkmash.repl.co/`
-- StatmanCLI \[tool] - `https://github.com/darkmash-org/StatmanCLI`
-- Edumash \[webpage] - `https://darkmash-org.github.io/edumash/`
-- DarkmashAPI \[API] - `https://darkmask.darkmash.repl.co/`
-- Darkmash \[webpage] - `https://darkmash-org.github.io/Darkmask/`
-- DarkmailAPI \[API] - `https://emailtracker.darkmash.repl.co/`
-- Tarl \[tool] - `https://github.com/darkmash-org/Tarl`
-- DarkBot \[bot] - `https://github.com/darkmash-org/Dark.bot`
+
+| Name          | Type     | URL                                                       |
+|---------------|----------|-----------------------------------------------------------|
+| Home          | webpage  | [https://darkmash-org.github.io/](https://darkmash-org.github.io/)               |
+| Blog          | webpage  | [https://darkmash-org.github.io/blog/](https://darkmash-org.github.io/blog/)      |
+| Clot          | tool     | [https://github.com/darkmash-org/Clot/](https://github.com/darkmash-org/Clot/)    |
+| Clot          | package  | [https://pypi.org/project/clot-terminal/](https://pypi.org/project/clot-terminal/) |
+| UFT           | tool     | [https://github.com/darkmash-org/UFT](https://github.com/darkmash-org/UFT)        |
+| UFT           | package  | [https://pypi.org/project/uft/](https://pypi.org/project/uft/)                    |
+| EmotionAPI    | API      | [https://emotionapi.darkmash.repl.co/](https://emotionapi.darkmash.repl.co/)      |
+| Duino Lookup  | webpage  | [https://darkmash-org.github.io/duino-lookup/](https://darkmash-org.github.io/duino-lookup/) |
+| Duino Lookup 2| webpage  | [https://axorax.github.io/duino-lookup/](https://axorax.github.io/duino-lookup/)  |
+| Statman       | webpage  | [https://darkmash-org.github.io/Statman/](https://darkmash-org.github.io/Statman/) |
+| StatmanAPI    | API      | [https://statman.darkmash.repl.co/](https://statman.darkmash.repl.co/)            |
+| StatmanCLI    | tool     | [https://github.com/darkmash-org/StatmanCLI](https://github.com/darkmash-org/StatmanCLI) |
+| Edumash       | webpage  | [https://darkmash-org.github.io/edumash/](https://darkmash-org.github.io/edumash/) |
+| DarkmashAPI   | API      | [https://darkmask.darkmash.repl.co/](https://darkmask.darkmash.repl.co/)          |
+| Darkmash      | webpage  | [https://darkmash-org.github.io/Darkmask/](https://darkmash-org.github.io/Darkmask/) |
+| DarkmailAPI   | API      | [https://emailtracker.darkmash.repl.co/](https://emailtracker.darkmash.repl.co/)  |
+| Tarl          | tool     | [https://github.com/darkmash-org/Tarl](https://github.com/darkmash-org/Tarl)      |
+| DarkBot       | bot      | [https://github.com/darkmash-org/Dark.bot](https://github.com/darkmash-org/Dark.bot) |
 
 
 ## You can donate to our activities through ~
